@@ -7,20 +7,17 @@
         "validateUpsert": true
     },
     "properties": {
-        "firstname": {
+        "text": {
             "type": "string"
         },
-        "lastname": {
-            "type": "string"
-        },
-        "gender": {
+        "subject": {
             "type": "string"
         },
         "rank": {
             "type": "number"
         },
-        "date": {
-            "type": "date"
+        "timestamp": {
+            "type": "string"
         }
     },
     "validations": [],
