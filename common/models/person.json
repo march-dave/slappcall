@@ -15,6 +15,12 @@
         },
         "gender": {
             "type": "string"
+        },
+        "rank": {
+            "type": "number"
+        },
+        "date": {
+            "type": "date"
         }
     },
     "validations": [],
